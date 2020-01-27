@@ -2,12 +2,6 @@ package Unit_1_Lesson_3;
 
 import java.text.*;
 
-/**
- * Anthony DeFoe
- * 1/15/2020
- * Show usage of decimal formatting in Java
- */
-
 public class Formatting {
     public static void main(String[] args){
 
