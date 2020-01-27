@@ -2,12 +2,6 @@ package Unit_1_Lesson_3;
 
 import java.util.Scanner;
 
-/**
- * Anthony DeFoe
- * 1/16/2020
- * Calculator app, mr H. did not help me. >:(
- */
-
 public class TesterWithTeacher {
 
     public static void main(String[] args) {
