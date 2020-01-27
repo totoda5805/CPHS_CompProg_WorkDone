@@ -1,10 +1,5 @@
 package Unit_1_Lesson_2;
 
-/**
- * Anthony DeFoe
- * 1/7/2020
- * Testing simple String Methods
- */
 public class TesterWithTeacher {
 
     public static void main(String[] args) {
